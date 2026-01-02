@@ -7,7 +7,7 @@ const CONFIG = {
     BUILD: "2024.10.24",
     
     // API Configuration
-    API_KEY: "AIzaSyC9ZSV4hpKHLSpZOEMW7_Wg_cLTDymzyks", 
+    API_KEY:"00000", 
     GEMINI_MODEL: "gemini-1.5-flash",
     API_TIMEOUT: 10000,
     
